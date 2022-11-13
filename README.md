@@ -43,7 +43,10 @@ O servidor já iniciará automaticamente e exibirá a seguinte mensagem:
 
 Agora então, é só abrir um navegador de Internet (testado no Brave - derivação do Chrome) e acessar o endereço acima (http://localhost:8080/).
 
-Na implementação atual em Prolog, a única ação informada é para acelerar o carro, mas se você deixar a linha 10 do arquivo ```main.js``` igual a ```const use_prolog = false;```, você poderá controlar o carrinho com as setinhas do teclado.
+Na implementação fornecida em Prolog, a única ação é acelerar o carro.
+
+Mas se você modifica a linha 10 do arquivo ```main.js``` para ```const use_prolog = false;```, você poderá controlar o carrinho com as setinhas do teclado.
+Nem é necessário instalar ou executar o SWI-Prolog, basta executar o arquivo ```index.html``` (abri-lo no navegador de Internet).
 
 Outras informações:
 * Para controlar o carro usando as setas do teclado ou o Prolog, modifique o arquivo 'main.js', linha 10 (false ou true);
