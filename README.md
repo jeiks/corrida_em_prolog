@@ -12,7 +12,11 @@ O objetivo passado aos alunos foi de implementar em Prolog o código necessário
 
 [![Corrida em Prolog](https://img.youtube.com/vi/O5NWlz6S4zM/0.jpg)](https://www.youtube.com/watch?v=O5NWlz6S4zM)
 
-### Como executar o servidor
+Se você quiser testar, acesse [http://jeiks.net/corrida_em_prolog](https://www.jeiks.net/corrida_em_prolog/)
+
+Use as setas para direcionar seu Carrinho.
+
+### Como executar o servidor localmente
 
 Primeiro, instale o [SWI-Prolog](https://www.swi-prolog.org/). Em distribuições baseadas na Debian (como Ubuntu), basta executar:
 ```sh
